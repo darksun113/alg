@@ -1,3 +1,3 @@
 # alg
 
-classical algorithm implemented by python
+classical algorithms implemented by python
