@@ -27,8 +27,6 @@ class Solution:
         return max(max_sub,sublen)
 
 
- 
-
 s = Solution()
 print(s.lengthOfLongestSubstring("abcabcbb"))
 print(s.lengthOfLongestSubstring("bbbbb"))
